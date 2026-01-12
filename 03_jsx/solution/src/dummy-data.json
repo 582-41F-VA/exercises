@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "content": {
+            "text": "Just launched our new product! Excited to share this journey with everyone. 🚀",
+            "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
+            "caption": "Business analytics dashboard with graphs and charts"
+        },
+        "author": {
+            "id": 101,
+            "name": "Sarah Chen",
+            "handle": "@sarahchen",
+            "avatar": "https://i.pravatar.cc/150?img=1",
+            "isVerified": true
+        },
+        "likes": [
+            {
+                "id": 102,
+                "name": "Mike Johnson",
+                "handle": "@mikej",
+                "avatar": "https://i.pravatar.cc/150?img=2",
+                "isVerified": false
+            },
+            {
+                "id": 103,
+                "name": "Emma Wilson",
+                "handle": "@emmaw",
+                "avatar": "https://i.pravatar.cc/150?img=3",
+                "isVerified": true
+            },
+            {
+                "id": 104,
+                "name": "David Park",
+                "handle": "@davidp",
+                "avatar": "https://i.pravatar.cc/150?img=4",
+                "isVerified": false
+            },
+            {
+                "id": 105,
+                "name": "Lisa Rodriguez",
+                "handle": "@lisar",
+                "avatar": "https://i.pravatar.cc/150?img=5",
+                "isVerified": true
+            },
+            {
+                "id": 106,
+                "name": "Alex Kumar",
+                "handle": "@alexk",
+                "avatar": "https://i.pravatar.cc/150?img=6",
+                "isVerified": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": {
+            "text": "Beautiful sunset from my evening walk. Nature never disappoints. 🌅",
+            "image": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=800&h=600&fit=crop",
+            "caption": "Vibrant orange and pink sunset over the horizon"
+        },
+        "author": {
+            "id": 107,
+            "name": "James Mitchell",
+            "handle": "@jamesmitchell",
+            "avatar": "https://i.pravatar.cc/150?img=7",
+            "isVerified": false
+        },
+        "likes": [
+            {
+                "id": 101,
+                "name": "Sarah Chen",
+                "handle": "@sarahchen",
+                "avatar": "https://i.pravatar.cc/150?img=1",
+                "isVerified": true
+            },
+            {
+                "id": 108,
+                "name": "Nina Patel",
+                "handle": "@ninap",
+                "avatar": "https://i.pravatar.cc/150?img=8",
+                "isVerified": true
+            },
+            {
+                "id": 109,
+                "name": "Chris Taylor",
+                "handle": "@christ",
+                "avatar": "https://i.pravatar.cc/150?img=9",
+                "isVerified": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": {
+            "text": "Pro tip for developers: Always write tests before you think you need them. Future you will thank present you! 💻",
+            "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=600&fit=crop",
+            "caption": "Programming code on computer screen with developer workspace"
+        },
+        "author": {
+            "id": 110,
+            "name": "Tech Insights",
+            "handle": "@techinsights",
+            "avatar": "https://i.pravatar.cc/150?img=10",
+            "isVerified": true
+        },
+        "likes": [
+            {
+                "id": 102,
+                "name": "Mike Johnson",
+                "handle": "@mikej",
+                "avatar": "https://i.pravatar.cc/150?img=2",
+                "isVerified": false
+            },
+            {
+                "id": 103,
+                "name": "Emma Wilson",
+                "handle": "@emmaw",
+                "avatar": "https://i.pravatar.cc/150?img=3",
+                "isVerified": true
+            },
+            {
+                "id": 111,
+                "name": "Ryan Lee",
+                "handle": "@ryanlee",
+                "avatar": "https://i.pravatar.cc/150?img=11",
+                "isVerified": false
+            },
+            {
+                "id": 112,
+                "name": "Sophia Anderson",
+                "handle": "@sophiaa",
+                "avatar": "https://i.pravatar.cc/150?img=12",
+                "isVerified": true
+            },
+            {
+                "id": 113,
+                "name": "Marco Silva",
+                "handle": "@marcos",
+                "avatar": "https://i.pravatar.cc/150?img=13",
+                "isVerified": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": {
+            "text": "Coffee and code. The perfect morning combo ☕️",
+            "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&h=600&fit=crop",
+            "caption": "Steaming cup of coffee on wooden table"
+        },
+        "author": {
+            "id": 114,
+            "name": "Rachel Green",
+            "handle": "@rachelg",
+            "avatar": "https://i.pravatar.cc/150?img=14",
+            "isVerified": false
+        },
+        "likes": [
+            {
+                "id": 107,
+                "name": "James Mitchell",
+                "handle": "@jamesmitchell",
+                "avatar": "https://i.pravatar.cc/150?img=7",
+                "isVerified": false
+            },
+            {
+                "id": 115,
+                "name": "Tom Harris",
+                "handle": "@tomh",
+                "avatar": "https://i.pravatar.cc/150?img=15",
+                "isVerified": true
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": {
+            "text": "Excited to announce I'm speaking at DevConf 2026! See you all there 🎤",
+            "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop",
+            "caption": "Conference stage with audience and presentation setup"
+        },
+        "author": {
+            "id": 103,
+            "name": "Emma Wilson",
+            "handle": "@emmaw",
+            "avatar": "https://i.pravatar.cc/150?img=3",
+            "isVerified": true
+        },
+        "likes": [
+            {
+                "id": 101,
+                "name": "Sarah Chen",
+                "handle": "@sarahchen",
+                "avatar": "https://i.pravatar.cc/150?img=1",
+                "isVerified": true
+            },
+            {
+                "id": 110,
+                "name": "Tech Insights",
+                "handle": "@techinsights",
+                "avatar": "https://i.pravatar.cc/150?img=10",
+                "isVerified": true
+            },
+            {
+                "id": 104,
+                "name": "David Park",
+                "handle": "@davidp",
+                "avatar": "https://i.pravatar.cc/150?img=4",
+                "isVerified": false
+            },
+            {
+                "id": 116,
+                "name": "Jessica Brown",
+                "handle": "@jessicab",
+                "avatar": "https://i.pravatar.cc/150?img=16",
+                "isVerified": false
+            },
+            {
+                "id": 117,
+                "name": "Kevin Zhang",
+                "handle": "@kevinz",
+                "avatar": "https://i.pravatar.cc/150?img=17",
+                "isVerified": true
+            }
+        ]
+    }
+]
